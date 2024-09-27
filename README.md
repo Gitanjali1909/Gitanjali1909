@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Gitanjali1909/Gitanjali1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Gitanjali Soni**! 👩‍💻  
+I'm a Software Engineer specializing in building (and occasionally designing) exceptional digital experiences. As a web developer, I'm passionate about crafting user-friendly interfaces and scalable solutions. 💻 
 
-Here are some ideas to get you started:
+Delving into tech with curiosity and creativity, I love collaborating and learning from the community. Let's connect and create something amazing together! 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Express
+- Databases: MongoDB, SQL
+- Tools: Git, GitHub, Visual Studio Code
+- Others: Tailwind CSS, Flutter
+
+## Connect with me
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url](https://www.linkedin.com/in/gitanjali-soni/))
+
+Feel free to reach out or follow me on LinkedIn! 😊
