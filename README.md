@@ -13,6 +13,6 @@ Delving into tech with curiosity and creativity, I love collaborating and learni
 - Others: Tailwind CSS, Flutter
 
 ## Connect with me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url](https://www.linkedin.com/in/gitanjali-soni/))
+[https://www.linkedin.com/in/gitanjali-soni/]
 
 Feel free to reach out or follow me on LinkedIn! 😊
