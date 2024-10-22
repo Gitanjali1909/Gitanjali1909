@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gitanjali1909</h1>
+<h1 align="center">Hi 👋, I'm Gitanjali</h1>
 <h3 align="center">A computer science student skilled in JavaScript, React.js, and Node.js. I love coding, content writing, and reading.</h3>
 
 - 📫 How to reach me **Gitanjalisoni2003@gmail.com**
 
-- ⚡ Fun fact **I love coming up with ideas for projects that relate to novels.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
