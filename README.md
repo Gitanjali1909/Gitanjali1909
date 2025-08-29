@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+Node.js;Exploring+Data+Science+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
----
 
 ## 🙋‍♀️ About Me  
 
@@ -14,7 +13,6 @@
 - 👨‍💻 My portfolio & frontend projects: [gitanjali-ten.vercel.app](https://gitanjali-ten.vercel.app/)  
 - 📫 Reach me at **Gitanjalisoni2003@gmail.com**  
 
----
 
 ## 🌐 Connect with me  
 
@@ -24,7 +22,6 @@
 <a href="https://leetcode.com/gitanjalisoni"><img src="https://skillicons.dev/icons?i=leetcode" width="40"/></a>
 <a href="https://www.hackerrank.com/gitanjalisoni201"><img src="https://skillicons.dev/icons?i=hackerrank" width="40"/></a>
 
----
 
 ## 🛠 Skills  
 
@@ -53,7 +50,6 @@
 ![Git](https://skillicons.dev/icons?i=git) 
 ![VS Code](https://skillicons.dev/icons?i=vscode) 
 
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitanjali1909&layout=compact&theme=tokyonight" alt="Most Used Languages" height="165"/>
