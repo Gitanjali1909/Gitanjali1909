@@ -3,15 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+Node.js;Exploring+Data+Science+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 
-## 🙋‍♀️ About Me  
+## About Me
 
-- 🎓 BSc Computer Science Graduate (2023).  
-- 💻 I enjoy building clean, scalable web apps with **React.js, Next.js, Node.js**, and **Tailwind CSS**.  
-- 📊 Currently exploring **Data Science & Machine Learning** — Python, Pandas, Seaborn, Scikit-learn.  
-- ✨ Curious builder who loves both **crafting user-friendly interfaces** and **finding insights in data**.  
-- 📝 I share my learnings and projects on [Medium](https://gitanjalisoni.medium.com/).  
-- 👨‍💻 My portfolio & frontend projects: [gitanjali-ten.vercel.app](https://gitanjali-ten.vercel.app/)  
-- 📫 Reach me at **Gitanjalisoni2003@gmail.com**  
+- BSc in Computer Science (2023)  
+- Frontend developer building clean, scalable web apps with **React.js, Next.js, Node.js**, and **Tailwind CSS**  
+- Exploring **Data Science & Machine Learning** — Python, Pandas, Seaborn, Scikit-learn  
+- Passionate about **crafting user-friendly interfaces** and **uncovering insights from data**  
+- Sharing my learnings and projects on [Medium](https://gitanjalisoni.medium.com/)  
+- Portfolio & projects: [Frontend](https://gitanjali-ten.vercel.app/) | [Data Science](https://www.datascienceportfol.io/gitanjalisoni2003)  
+- Reach me at **Gitanjalisoni2003@gmail.com**
 
 
 ## 🌐 Connect with me  
