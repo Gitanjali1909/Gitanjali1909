@@ -5,7 +5,6 @@
 
 ## About Me
 
-- BSc in Computer Science (2023)  
 - Frontend developer building clean, scalable web apps with **React.js, Next.js, Node.js**, and **Tailwind CSS**  
 - Exploring **Data Science & Machine Learning** — Python, Pandas, Seaborn, Scikit-learn  
 - Passionate about **crafting user-friendly interfaces** and **uncovering insights from data**  
