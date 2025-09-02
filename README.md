@@ -6,8 +6,7 @@
 ## About Me
 
 - Frontend developer building clean, scalable web apps with **React.js, Next.js, Node.js**, and **Tailwind CSS**  
-- Exploring **Data Science & Machine Learning** — Python, Pandas, Seaborn, Scikit-learn  
-- Passionate about **crafting user-friendly interfaces** and **uncovering insights from data**  
+- Exploring **Data Science & Machine Learning** — Python, Pandas, Seaborn, Scikit-learn    
 - Sharing my learnings and projects on [Medium](https://gitanjalisoni.medium.com/)  
 - Portfolio & projects: [Frontend](https://gitanjali-ten.vercel.app/) | [Data Science](https://www.datascienceportfol.io/gitanjalisoni2003)  
 - Reach me at **Gitanjalisoni2003@gmail.com**
