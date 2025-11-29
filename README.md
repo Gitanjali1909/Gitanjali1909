@@ -50,8 +50,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitanjali1909&layout=compact&theme=tokyonight&cache_seconds=7200" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Gitanjali1909&show_icons=true&theme=tokyonight&cache_seconds=7200" height="165" />
+  <img src="https://stats.dooboo.io/api/github-stats?login=Gitanjali1909&theme=tokyonight" height="150" />
+  <img src="https://stats.dooboo.io/api/top-langs?login=Gitanjali1909&theme=tokyonight" height="150" />
 </p>
+
 
 
