@@ -50,7 +50,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gitanjali1909&layout=compact&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gitanjali1909&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitanjali1909&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gitanjali1909&show_icons=true&theme=tokyonight" height="165" />
 </p>
+
 
