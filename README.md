@@ -7,7 +7,7 @@
 
 - Frontend developer building clean, scalable web apps with **React.js, Next.js, Node.js**, and **Tailwind CSS**  
 - Exploring **Data Science & Machine Learning** — Python, Pandas, Seaborn, Scikit-learn    
-- Sharing my learnings and projects on [Medium](https://gitanjalisoni.medium.com/)  
+- Sharing my learnings and projects on [Medium](https://gitanjalisoni.medium.com/) & [Portfolio](https://writer-portfolio-eight.vercel.app/)  
 - Portfolio & projects: [Portfolio](https://gitanjaliportfolio.vercel.app/) 
 - Reach me at **Gitanjalisoni2003@gmail.com**
 
