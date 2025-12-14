@@ -51,7 +51,7 @@
 
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats?login=Gitanjali1909&theme=tokyonight" height="150" />
-  <img src="https://stats.dooboo.io/api/top-langs?login=Gitanjali1909&theme=tokyonight" height="150" />
+ 
 </p>
 
 <br clear="both">
