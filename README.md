@@ -3,10 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+Node.js;Exploring+Data+Science+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 
-## About Me
+## 👋 About Me
 
-- Frontend developer building clean, scalable web apps with **React.js, Next.js, Node.js**, and **Tailwind CSS**  
-- Exploring **Data Science & Machine Learning** - Python, Pandas, Seaborn, Scikit-learn    
+- AI Engineer & Frontend Developer building full-stack AI-powered web applications  
+- Experienced with **React.js, Next.js, TypeScript, Python, FastAPI, and Tailwind CSS**  
+- Building real-world AI systems like **RAG pipelines, LLM apps, and AI agents**     
 - Sharing my learnings and projects on [Medium](https://gitanjalisoni.medium.com/) 
 - Portfolio & projects: [Portfolio](https://gitanjaliportfolio.vercel.app/) 
 - Reach me at **Gitanjalisoni2003@gmail.com**
